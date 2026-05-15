@@ -1,0 +1,2 @@
+1,tomate,2000.0,2,verdura
+2,zanahoria,1000.0,1,verdura
